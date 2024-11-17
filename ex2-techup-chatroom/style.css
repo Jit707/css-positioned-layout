@@ -1,1 +1,35 @@
-/* Start coding here */
+#header{
+    background-color: rgb(117, 227, 48);
+    margin: 0px;
+    padding: 10px;
+    font-size: 10px;
+    color: rgb(0, 0, 0);
+
+}
+
+.g01,  .g03{
+    background-color: rgb(11, 170, 11);
+    padding: 10px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+.g02{
+    background-color: rgb(38, 255, 146);
+    padding: 10px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+.greenPart{
+    position: relative;
+    left: 600px;
+}
+
+.g04, .g05 {
+    background-color: rgb(120, 194, 8);
+    padding: 10px;
+    width: 150px;
+    border-radius: 20px;
+
+}
